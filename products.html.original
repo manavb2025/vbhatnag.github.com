@@ -56,8 +56,9 @@
 
 <div id="main_body">
 <div id="main_body_content">
+ 
 
-<!--Product 1-----RFX LAPSAFE STARTS HERE--------->
+
 <div id="popup1" class="overlay">
 				
 	<div class="popup" style="overflow-y: scroll;height:500px">
@@ -148,122 +149,10 @@
 </div>
     </td>
   </tr>
-</table> 
+</table>
 
-</div>
-</div>
-</div>
-</div>
-
-
-<!--Product 1-----RFX LAPSAFE ENDS HERE--------->
-
-
-<!--Product 2-----RFX POUCH STARTS HERE--------->
 
 <div id="popup2" class="overlay">
-				
-	<div class="popup" style="overflow-y: scroll;height:500px">
-		<h2 style="width:550px; height:40px">RFX POUCH   <a class="cssbtn" style="float:right" href="http://www.rfxindustries.com/Video_LP.html"><span>Testing videos.</span></a> </h2>
-				
-				
-		<a class="close" href="http://www.rfxindustries.com/products.html#">Ã—&nbsp;</a>
-		
-		<center>
-	<table class="table-cell">
-  <tbody><tr>
-    <td class="left_box1_content_img" valign="top">
-	<marquee scrolldelay="200" direction="down" behavior="alternate" height="100">
-
-<marquee scrolldelay="200" behavior="alternate"><font size="7">
-<img src="images/pouch1.jpg" style="width:100px;height:100px;" border="0">
-<img src="images/pouch2.jpg" style="width:100px;height:100px;" border="0">
-<img src="images/pouch3.jpg" style="width:100px;height:100px;" border="0">
-<img src="images/pouch4.jpg" style="width:100px;height:100px;" border="0">
-<img src="images/pouch5.jpg" style="width:100px;height:100px;" border="0">
-<img src="images/pouch6.jpg" style="width:100px;height:100px;" border="0">
-<img src="images/pouch7.jpg" style="width:100px;height:100px;" border="0">
-<img src="images/pouch8.jpg" style="width:100px;height:100px;" border="0">
-</font></marquee>
-
-</marquee>
-	
-	
-	
-	</td>
-	</tr><tr>
-    <td valign="top">
-            <p style=" line-height: 130% ;text-align: justify;font-family: Verdana ;color: #333333;font-size:13px;">
-			
-           
-		   Do you keep your mobile phone in your pocket. It is time to rethink about it. Your mobile phone is a source of microwave frequencies which keeps on emitting hazardous radiations while even in idle state. Thus your internal organs absorb lots of harmful microwave radiations all the time which can be very dangerous in long run. It is always recommended to carry your mobile phone in a RF shielding cover. But most of the RF shielding covers block your mobile phone signals and of no use. First time in India we introduce the RFX RFPOUCH which is anti radiation mobile pouch for mobile phones of 5 and 1/2 inch and smaller sizes. It reduces the harmful mobile radiations from your mobile phone without blocking it. This pouch is based on our patented technology which does not disrupt the normal functioning of your mobile phone but reduces its RF radiations. THE MOBILE PHONE IS NOT BLOCKED BUT ITS RADIATIONS ARE REDUCED TO SAFE LIMITS.Tested at IIT DELHI. The product comes at very affordable price. The pouch gets all sizes of mobile phones smartly fit into it. It can be easily kept in your shirt or trouser pocket. Reduces upto 99% radiations, the phone is not blocked. Very useful for heart patients.
-		   
-</p><li><b>Specifications of RFX POUCH</b></li>
-<ol>* Length- 20.3 cm</ol>
-<ol>* Width- 15.2 cm</ol>
-<ol>* Thickness- 2.5 cm</ol>
-<ol>* Weight- 99.8 gram </ol>
-<ol>* Color- Black</ol>		   
-		   		
-				
-		   
-<p></p>	
-		
-    <!-- <p><a href="aboutus.html" class="read">read more...</a></p> -->
-    </td>
-  </tr>
-  
-</tbody></table>
-</center>
-	</div>
-</div>
-<!--Start content_data -->
-<div class="content_data">
-
-<div class="content_data_left">
-<!--Start left_box1 -->
-<div class="left_box1">
-<div class="left_box1_content">
-
-<h1>Our Products</h1>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td class="left_box1_content_img" valign="top"><img src="images/pouch_products_2.jpg" border="0"></td>
-    <td class="left_box1_content_text" valign="top">
-        <h3>RFX POUCH</h3> 
-		<img src="images/INR.png" height="15" width="15"><del style="color:red; margin-right:20px">6700</del> <span><img src="images/INR.png" height="15" width="15">4500</span> <span>(additional <img src="images/INR.png" height="15" width="15">300&nbsp; delivery charges)</span>
-		
-		<p style=" line-height: 110% ;text-align: justify;font-family: Verdana ;color: #333333;font-size:13px; margin:7px">
-			RFX POUCH is RF shielding RADIATION EXPOSURE LOWERING MOBILE POUCH FOR 5.5 INCH AND SMALLER MOBILE PHONES. It is high quality and very handy that works very efficiently against the dangerous RF signals to save your fertility, heart & braing. It helps to reduce the effect of the radiation that is absorbed by our sensitive body parts unknowingly. This product is highly recommeded for the sensitive people who feels unneccessary stress/headache at home or at work.
- 
-			
-                </p><div class="box">
-	<a class="button" href="http://www.rfxindustries.com/products.html#popup2">read more..</a>
-	  		<ul id="nav">
-				<li><a href="http://www.rfxindustries.com/purchase.html"><span>Buy Now</span></a></li>
-				</ul>
-</div>
-      
-            <p></p>
-			
-
-
-    </td>
-  </tr>
-</tbody></table>
-
-
-</div>
-</div>
-</div>
-</div>
-
-<!--Product 2-----RFX POUCH ENDS HERE--------->
-
-
-<!--Product 3-----RFX COVER STARTS HERE--------->
-<div id="popup3" class="overlay">
 	<div class="popup" style="overflow-y: scroll;height:500px">
 	<h2 style="width:550px; height:40px">RFCOVER <a class="cssbtn" style="float:right" href="Video_RC.html"><span>Testing videos.</span></a> </h2>
 
@@ -346,20 +235,16 @@ smart cover to cover your mobile phone, tablet, and Wi-Fi router/hot-spot to red
 			The RFX RFCOVER is a smart cover that is used to provide shielding from the harmful radio frequency (RF) radiations of your mobile phone, tablet, and Wi-Fi router/hot-spot, etc.
 Your Wi-Fi router/hot-spot is a big source of RF radiations in your house and working places. It continuously emits RF radiations during day and night, 24 hours.
                 <div class="box">
-	<a class="button" href="#popup3">read more..</a>
+	<a class="button" href="#popup2">read more..</a>
 	  		<ul id="nav">
 				<li><a href="purchase.htm"><span>Buy Now</span></a></li>
 				</ul>
-</div>
+<!--/div>
       
-            </p>
+            </p-->
 			
-    </div>
-</div>
-</div>
-</div>
+    
 
-<!--Product 3-----RFX COVER ENDS HERE--------->
 
 <div class="right_pannel">
 <h1>Personal care products</h1>
@@ -435,7 +320,7 @@ Your Wi-Fi router/hot-spot is a big source of RF radiations in your house and wo
     <div class="buttom_copy">
     <table width="100%" border="0"  cellpadding="0" cellspacing="0">
   <tr>
-    <td align="left" valign="top"><p>All rights reserved - Copyright ï¿½ 2016</p></td>
+    <td align="left" valign="top"><p>All rights reserved - Copyright © 2016</p></td>
     <td align="right" valign="top"><p> Designed by :  <a href="http://rfxindustries.com" target="_blank" style="text-decoration:none;"> vbhatnag </a></p></td>
   </tr>
 </table>
