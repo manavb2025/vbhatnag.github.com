@@ -1,4 +1,5 @@
-﻿<html>
+
+<html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>RFX Industries</title>
@@ -62,13 +63,16 @@
 <div class="content_data_allpage">
 <div class="left_box1_content">
 
-<h1>Contact Us</h1>
+<h1>Booking Page</h1>
 
 
-<p  style=" line-height: 130% ;text-align: justify;font-family: Verdana ;color: #333333;font-size:15px;">If you are interested in any of our product, please send your queries by email on the below emails. We will contact you as soon as we receive your request. If you need to purchse our product on COD (cash on delivery), then press 
-Buy Now button. </p> <div class="ontent box"> <ul id="nav">
-				<li><a href="purchase.html"><span>Buy Now</span></a></li></div></ul>
-				
+<p  style=" line-height: 130% ;text-align: justify;font-family: Verdana ;color: #333333;font-size:15px;">
+<b>For purchasing our products, please send us an email for the curresponding product on the given email. We will contact you as soon as we receive your requiest.</b>
+<br> Cash on Delivery (COD) available. Also available on Ebay 
+<a href="http://www.ebay.in/itm/RFX-LAPSAFE-Laptop-Radiation-and-Heat-Shield-Nothing-can-pass-through-it-/152277432359?hash=item2374713827:g:DgsAAOSwZJBX~sJK"target="_blank">RFX LAPSAFE</a> <a href="http://www.ebay.in/itm/RFX-RFCOVER-RF-RADIATION-SHIELDING-COVER-FOR-MOBILE-PHONES-Wi-Fi-HOT-SPOT-/152277623013?hash=item23747420e5:g:f5AAAOSwpLNX~vJb"target="_blank">RFX RFCOVER</a></br>
+</p>
+
+
 <table width="100%" border="0" cellpadding="0" cellspacing="10">
   <tr>
 <td>
@@ -97,14 +101,13 @@ Buy Now button. </p> <div class="ontent box"> <ul id="nav">
       <td valign="top" style="height:180px; width:190px;"><img src="images/IMG_R7.jpg" align="left" border="0" /><br>RFCOVER</br></td>
 
       <td valign="top" style="height:180px; width:190px;"><img src="images/pouch_products_2.jpg" align="left" border="0" /><br>RFX POUCH</br></td--> 
-  
-	 
- </tr>
+  </tr>
 </table>
 <table width="100%" border="0" cellpadding="0" cellspacing="10">
   
       <td valign="top" ><p>Emails:  <a href="mailto:support@rfxindustries.com?Subject=Buy%20a%20RFX" target="_top">support@rfxindustries.com</a>, &nbsp <a href="mailto:contact@rfxindustries.com?Subject=Buy%20a%20RFX" target="_top">contact@rfxindustries.com</a></p>
-</table>	
+</table>	  
+	  
 	  
 	  
 	 <!--table width="450px">
@@ -137,15 +140,28 @@ Buy Now button. </p> <div class="ontent box"> <ul id="nav">
 </tr>
 <tr>
  <td valign="top">
-  <label for="telephone">Telephone Number</label>
+  <label for="telephone">Telephone Number *</label>
  </td>
  <td valign="top">
   <input  type="text" name="telephone" maxlength="30" size="30">
  </td>
 </tr>
 <tr>
+
+</tr>
+<tr>
  <td valign="top">
-  <label for="comments">Comments *</label>
+  <label for="product">Product Name *</label>
+ </td>
+ <td valign="top">
+  <input  type="text" name="product" maxlength="30" size="30">
+ </td>
+</tr>
+<tr>
+
+
+ <td valign="top">
+  <label for="comments">Address *</label>
  </td>
  <td valign="top">
   <textarea  name="comments" maxlength="1000" cols="25" rows="6"></textarea>
@@ -154,16 +170,16 @@ Buy Now button. </p> <div class="ontent box"> <ul id="nav">
 </tr>
 <tr>
  <td colspan="2" style="text-align:center">
-  <input type="submit" value="Submit"> 
+  <input type="submit" value="Submit" action="mailto:contact@rfxindustries.com">
  </td>
 </tr>
 </table>
     
     
     </td>
-  </tr-->
+  </tr>
   
-</table>
+</table-->
 
 <h3>Contact Us</h3>
 <h4>RFX Industries,
@@ -172,6 +188,14 @@ Buy Now button. </p> <div class="ontent box"> <ul id="nav">
     Moradabad 244001(UP), INDIA
     <br>
     Ph. no. 0591-2480691</h4>
+
+
+
+
+
+
+
+
 
 </div>
 </div>
@@ -196,7 +220,7 @@ Buy Now button. </p> <div class="ontent box"> <ul id="nav">
     <div class="buttom_copy">
     <table width="100%" border="0"  cellpadding="0" cellspacing="0">
   <tr>
-    <td align="left" valign="top"><p>All rights reserved - Copyright © 2016</p></td>
+    <td align="left" valign="top"><p>All rights reserved - Copyright � 2016</p></td>
     <td align="right" valign="top"><p> Designed by :  <a href="http://rfxindustries.com" target="_blank" style="text-decoration:none;"> vbhatnag </a></p></td>
   </tr>
 </table>
