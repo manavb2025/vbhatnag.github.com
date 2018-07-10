@@ -83,7 +83,7 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td class="left_box1_content_img" valign="top" ><img src="images/Home.jpg" border="0" /></td>
-    <td class="left_box1_content_text" valign="top" style="height: auto">
+    <!--td class="left_box1_content_text" valign="top" style="height: auto" -->
         <h3>Welcome</h3>
         <p  style="line-height: 130% ;text-align: justify;font-family: Verdana ;color: #333333;font-size:13px;">
         RFX Industries mainly deals in RF Shielding accessories used forpersonal safety from Radio frequency (RF) radiation and in various industries for RF equipment testing and protection. Our product range includes various clothing gears, mobile phone pouches, RF shield for laptops, RF Shielding chambers, RF Shielding blended clothes, and conductive clothes. We also provide consultation for RF and EMF shielding for various personal and industrial applications.
@@ -92,7 +92,7 @@
         </p>
     
      <p><a href="aboutus.html" class="read">read more...</a></p>
-    </td>
+    <!--/td-->
   </tr>
 </table>
 
