@@ -396,6 +396,9 @@ body	{
 /*Start footer_band css*/	
 	
 
+.redtext {
+        color: red;
+}
 	
 	
 	

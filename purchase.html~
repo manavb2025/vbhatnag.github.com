@@ -3,6 +3,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>RFX Industries</title>
+<!--added for blink the blink.css vbhatnag-->
+<link href="css/blink.css" rel="stylesheet" type="text/css" />
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 <!-- favicon website bar -->
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" />
@@ -67,35 +69,47 @@
 
 
 <p  style=" line-height: 130% ;text-align: justify;font-family: Verdana ;color: #333333;font-size:15px;">
-<b>For purchasing our products, please send us an email for the curresponding product on the given email. We will contact you as soon as we receive your requiest.</b>
-<br> Cash on Delivery (COD) available. Also available on Ebay 
-<a href="http://www.ebay.in/itm/RFX-LAPSAFE-Laptop-Radiation-and-Heat-Shield-Nothing-can-pass-through-it-/152277432359?hash=item2374713827:g:DgsAAOSwZJBX~sJK"target="_blank">RFX LAPSAFE</a> <a href="http://www.ebay.in/itm/RFX-RFCOVER-RF-RADIATION-SHIELDING-COVER-FOR-MOBILE-PHONES-Wi-Fi-HOT-SPOT-/152277623013?hash=item23747420e5:g:f5AAAOSwpLNX~vJb"target="_blank">RFX RFCOVER</a></br>
+<b>For purchasing our products, please send us an email for the curresponding product on the given email. We will contact you as soon as we receive your request.</b>
+<h2  style="font-size:14px; color:magenta" class="blink">
+<img src=images/promo.jpg height="22" width="22"> Cash on Delivery (COD) available.<img src=images/promo.jpg height="22" width="22"></h2>
+<h2  style="font-size:14px; color:blue"> <img src=images/logo_small.jpg height="10" width="21"> NOW available also on</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src=images/finger_down.jpg height="30" width="32" class="blink" ></br><span  ><mark>Ebay</mark></span>
+<!--marquee--><a href="https://www.ebay.in/itm/Laptop-Radiations-and-Heat-Shield-/152737708324?hash=item238fe07924"target="_blank">RFX LAPSAFE,</a> 
+<a href="https://www.ebay.in/itm/RADIATION-EXPOSURE-LOWERING-MOBILE-POUCH-FOR-5-5-INCH-MOBILE-PHONES-IN-DASHING-R-/152737709118?hash=item238fe07c3e"target="_blank">RFX POUCHE</a>&nbsp;(in red color)</h2><!--/marquee-->
+<h2  style="font-size:14px; color:blue"><span  class="blink"><mark>Amazon</mark></span>
+<!--marquee-->
+<a href="https://www.amazon.in/Radiation-Blocking-Improve-Efficiency-Fertility/dp/B01KLWLJSS/ref=sr_1_1?ie=UTF8&qid=1531225174&sr=8-1&keywords=rfx+lapsafe"target="_blank">RFX LAPSAFE,</a>
+<a href="https://www.amazon.in/RADIATION-EXPOSURE-LOWERING-FERTILITY-RADIATIONS/dp/B01MFECGNF/ref=pd_rhf_se_p_img_3?_encoding=UTF8&psc=1&refRID=8ZSACPDC5SXKMBT2RPEN"target="_blank">RFX POUCHE,</a> 
+<a href="https://www.amazon.in/Radiation-Exposure-Dangers-Minimizing-Yourself/dp/B01MEGB0UI/ref=sr_1_3?s=electronics&ie=UTF8&qid=1531225195&sr=1-3&keywords=rfx+cover"target="_blank">RFCOVER</a></h2><!--/marquee-->
 </p>
 
 
 <table width="100%" border="0" cellpadding="0" cellspacing="10">
   <tr>
 <td>
+<a href="http://www.rfxindustries.com/products.html#popup1" target="_blank">
 <div class="container">
   <img src="images/IMG_4.jpg" alt="Snow" style="width:100%;" border=2>
-  <div class="centered">LAPSAFE</div>
+  <div class="centered">LAPSAFE</div></a>
 </div>
 </td>
 
 <td>
-<div class="container">
-  <img src="images/IMG_R7.jpg" alt="Snow" style="width:100%;" border=2>
-  <div class="centered">RFCOVER</div>
-</div>
-</td>
-
-
-<td>
+ <a href="http://www.rfxindustries.com/products.html#popup2" target="_blank">
 <div class="container">
   <img src="images/pouch_products_2.jpg" alt="Snow" style="width:100%;">
-  <div class="centered">RFX POUCH</div>
+  <div class="centered">RFX POUCH</div></a>
 </div>
 </td>
+
+<td>
+<a href="http://www.rfxindustries.com/products.html#popup3" target="_blank">
+<div class="container">
+  <img src="images/IMG_R7.jpg" alt="Snow" style="width:100%;" border=2>
+  <div class="centered">RFCOVER</div></a>
+</div>
+</td>
+
+
 <!--td valign="top" style="height:180px; width:190px;"><img src="images/IMG_4.jpg" align="left" border="0" /><br>LAPSAFE</br></td>
 
       <td valign="top" style="height:180px; width:190px;"><img src="images/IMG_R7.jpg" align="left" border="0" /><br>RFCOVER</br></td>
@@ -105,7 +119,7 @@
 </table>
 <table width="100%" border="0" cellpadding="0" cellspacing="10">
   
-      <td valign="top" ><p>Emails:  <a href="mailto:support@rfxindustries.com?Subject=Buy%20a%20RFX" target="_top">support@rfxindustries.com</a>, &nbsp <a href="mailto:contact@rfxindustries.com?Subject=Buy%20a%20RFX" target="_top">contact@rfxindustries.com</a></p>
+      <td valign="top" ><p>Email Us:  <a href="mailto:support@rfxindustries.com?Subject=Buy%20a%20RFX" target="_top">support@rfxindustries.com</a>, <a href="mailto:contact@rfxindustries.com?Subject=Buy%20a%20RFX" target="_top">contact@rfxindustries.com</a></p>
 </table>	  
 	  
 	  
@@ -181,7 +195,7 @@
   
 </table-->
 
-<h3>Contact Us</h3>
+<h3>Write Us:</h3>
 <h4>RFX Industries,
     1B-422, Buddhi Vihar, 
     <br>

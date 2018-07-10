@@ -2,6 +2,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>RFX Industries</title>
+<!--added for blink the blink.css vbhatnag-->
+<link href="css/blink.css" rel="stylesheet" type="text/css" />
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 <!-- favicon website bar -->
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico" />
@@ -65,11 +67,11 @@
 <h1>Contact Us</h1>
 
 
-<p  style=" line-height: 130% ;text-align: justify;font-family: Verdana ;color: #333333;font-size:15px;">If you are interested in any of our product, please send your queries by email on the below emails. We will contact you as soon as we receive your request. If you need to purchse our product on COD (cash on delivery), then press 
-Buy Now button. </p> <div class="ontent box"> <ul id="nav">
+<p  style=" line-height: 130% ;text-align: justify;font-family: Verdana ;color: #333333;font-size:16px;">If you are interested in one of our product, please send us your queries by email on the below emails. We will contact you as soon as we receive your request. If you want to purchse any of our product <text style="color:blue" class="blink">COD (cash on delivery)</text>, then please press the
+<span class="blink"><a href="purchase.html" target="_blank">"Buy Now"</a> </span>button below. </p> <div class="ontent box"> <ul id="nav">
 				<li><a href="purchase.html"><span>Buy Now</span></a></li></div></ul>
 				
-<table width="100%" border="0" cellpadding="0" cellspacing="10">
+<!--table width="100%" border="0" cellpadding="0" cellspacing="10">
   <tr>
 <td>
 <div class="container">
@@ -91,7 +93,37 @@ Buy Now button. </p> <div class="ontent box"> <ul id="nav">
   <img src="images/pouch_products_2.jpg" alt="Snow" style="width:100%;">
   <div class="centered">RFX POUCH</div>
 </div>
+</td-->
+
+<table width="100%" border="0" cellpadding="0" cellspacing="10">
+  <tr>
+<td>
+<a href="http://www.rfxindustries.com/products.html#popup1" target="_blank">
+<div class="container">
+  <!--img src="images/IMG_4.jpg" alt="Snow" style="width:100%;" border=2-->
+  <img src="images/IMG_4.jpg" height="220" width="320" alt="Snow"  border=2>
+  <div class="centered">LAPSAFE</div></a>
+</div>
 </td>
+
+<td>
+ <a href="http://www.rfxindustries.com/products.html#popup2" target="_blank">
+<div class="container">
+  <!--img src="images/pouch_products_2.jpg" alt="Snow" style="width:100%;"-->
+  <img src="images/pouch_products_2.jpg" height="230" width="320"  alt="Snow">
+  <div class="centered">RFX POUCH</div></a>
+</div>
+</td>
+
+<td>
+<a href="http://www.rfxindustries.com/products.html#popup3" target="_blank">
+<div class="container">
+  <!--img src="images/IMG_R7.jpg" alt="Snow" style="width:100%;" border=2-->
+  <img src="images/IMG_R7.jpg" height="220" width="290" alt="Snow" border=2>
+  <div class="centered">RFCOVER</div></a>
+</div>
+</td>
+
 <!--td valign="top" style="height:180px; width:190px;"><img src="images/IMG_4.jpg" align="left" border="0" /><br>LAPSAFE</br></td>
 
       <td valign="top" style="height:180px; width:190px;"><img src="images/IMG_R7.jpg" align="left" border="0" /><br>RFCOVER</br></td>
@@ -165,9 +197,12 @@ Buy Now button. </p> <div class="ontent box"> <ul id="nav">
   
 </table>
 
-<h3>Contact Us</h3>
+<h3>Write Us:</h3>
 <h4>RFX Industries,
-    1B-422, Buddhi Vihar, Moradabad 244001(UP)</h4>
+    1B-422, Buddhi Vihar, 
+    <br>
+    Moradabad 244001(UP), INDIA
+    <br>
     Ph. no. 0591-2480691</h4>
 
 </div>
