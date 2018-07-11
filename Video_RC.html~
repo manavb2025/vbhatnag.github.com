@@ -57,8 +57,6 @@
 
 <div id="main_body">
 <div id="main_body_content">
-
-
  <!--Start banner-->  
 <div class="banner">
     <div class="slider">
@@ -76,8 +74,8 @@
 
 
 <div id="popup1" class="overlay">
-	<div class="popup" style="overflow-y: scroll;height:500px">
-		<h2>RFX RF Cover</h2>
+	<div class="popup">
+		<h2>RFCOVER</h2>
 		<a class="close" href="#">&times;&nbsp;</a>
 		
 		<center>
@@ -87,12 +85,15 @@
 	<marquee scrolldelay="200" direction="down" behavior="alternate" height="100">
 
 <marquee scrolldelay="200" behavior="alternate"><font size="7">
-<img src="images/IMG_R7.jpg" style="width:100px;height:100px;" border="0" />
-<img src="images/IMG_R2.jpg" style="width:100px;height:100px;" border="0" />
-<img src="images/IMG_R3.jpg" style="width:100px;height:100px;" border="0" />
-<img src="images/IMG_R4.jpg" style="width:100px;height:100px;" border="0" />
-<img src="images/IMG_R5.jpg" style="width:100px;height:100px;" border="0" />
-<img src="images/IMG_R6.jpg" style="width:100px;height:100px;" border="0" />
+<img src="images/img1.jpg" style="width:100px;height:100px;" border="0" />
+<img src="images/IMG_1.jpg" style="width:100px;height:100px;" border="0" />
+<img src="images/IMG_2.jpg" style="width:100px;height:100px;" border="0" />
+<img src="images/IMG_3.jpg" style="width:100px;height:100px;" border="0" />
+
+
+
+<img src="images/IMG_4.jpg" style="width:100px;height:100px;" border="0" />
+<img src="images/IMG_5.jpg" style="width:100px;height:100px;" border="0" />
 </font></marquee>
 
 </marquee>
@@ -104,28 +105,16 @@
     <td valign="top">
             <p  style=" line-height: 130% ;text-align: justify;font-family: Verdana ;color: #333333;font-size:13px;">
 			
-			 These RF radiations are absorbed by your body all the time. If a Wi-Fi router/hot-spot is kept in a smaller premises, like smaller houses/offices, then your body absorbs excessively high amounts of the RF radiations all the time. Or when you work close to the Wi-Fi router/hot-spot, then you absorb a large amount of RF radiations unknowingly. It has been reported by many researches that these RF radiations can lead to many problems
-Some people are sensitive to these radiations and may complain headache, backache, and numbness in their limbs and other body parts after long usage of Wi-Fi signals. The danger of RF radiations is excessively increased at night; because in night you are idle, sleeping at one place, and your body absorbs a constant level of Wi-Fi radiations for 8-10 hours. Some people complain about sleep disorders because of these radiations.
-At nights, the danger from the mobile and tablet radiations in increased multiple times because we need to keep these devices close to our body (which lies idly on bed and absorb continuous radiations for about 8-10 hours) to keep the ‘wake-up alarm’ or for important and urgent outgoing/incoming calls. Unfortunately, you cannot switch off these RF emitting devices in night because of their useful applications. 
-
-			
-			The RFX RFCOVER is a smart solution to all your problems. You can use this
-smart cover to cover your mobile phone, tablet, and Wi-Fi router/hot-spot to reduce their RF radiations. The smart RFX RFCOVER DOES NOT block your RF device but only reduces its RF radiations. At night, you can cover your device through this cover and sleep peacefully without absorbing high amounts of RF radiations from it.
-
-
-<li><b>Specifications of the cover</b></li>
-<ol>* Length- 12 inch</ol>
-<ol>* Width- 12 inch</ol>
-<ol>* Thickness- 4 mm</ol>
-<ol>* Weight- 100 gram </ol>
-<ol>* 	Color- Black / brown / cyan / gray</ol>
-
-			
-			<div style="font-size:x-large;color:red;text-align:center">Videos comming soon !</div>
-         <!--  <a href="Video.html">Check our Videos</a>-->
+           
+		   During long working hours on your laptops with activated Wi-Fi or dongle connected to it, your organs are exposed to excessively high levels of radiations for intolerably large time extents. Some people are sensitive to these radiations and may complain numbness in their limbs and other body parts after long usage of the laptop. It has been reported by many researches that these RF radiations can lead to many problems in both male and female like Cancer, Infertility, and Sperm Count Reduction, etc. These problems are also faced when you use your laptop kept on your working table; as in this case also your body parts lie exposed to the laptop radiations. RFX LAPSAFE is made by using our Patented Technology to provide maximum protection from the RF radiation of laptop. The RFX LAPSAFE works on the principal of Faraday Cage. The RFX LAPSAFE is made of RF protective layers to reduce the RF radiations towards your body organs beneath the laptop. The upper layer is specially equipped with anti-skidding, anti-sliding, and heat absorbing properties along with RF radiation protection. The RFX LAPSAFE can be used as a support while using your laptop on your lap, or below your laptop when it is kept on your working table. Its elegant and trendy look adds up to your style. The RFX LAPSAFE is designed to provide you a comfortable and non-heating lap support while working on your laptop and you would enjoy working on your laptop with RFX LAPSAFEbelow it. The size of RFX LAPSAFE is kept such that it can accommodate all sizes of laptops. The RFX LAPSAFE is lightweight and can be easily accommodated in a laptop bag. The RFX LAPSAFE is made by using indigenous technologies and proudly developed in India.
 		   
+		   Visit this link : 
 		   
-		   		
+Try it Yourself »
+
+		   		<ul id="nav">
+				<li><a href=" http://www.amazon.in/RFX-LAPSAFE--yourself-fearless-radiation/dp/B01KLWLJSS/ref=sr_1_1?ie=UTF8&qid=1471941410&sr=8-1&keywords=lapsafe"><span>Shop Now</span></a></li>
+				</ul>
 				
 		   
 </p>	
@@ -146,29 +135,27 @@ smart cover to cover your mobile phone, tablet, and Wi-Fi router/hot-spot to red
 <div class="left_box1">
 <div class="left_box1_content">
 
-<h1>Our Products</h1>
+<h1><u>Our Video</u></h1>
 
+  <br>
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td class="left_box1_content_img" valign="top"><img src="images/rf_coverLogo.jpg" border="0" /></td>
-    <td class="left_box1_content_text" valign="top">
-        <h3>RFX RF Cover</h3> 
-	<img src="images/INR.png" height="15" width="15"><del style="color:red; margin-right:20px">4000</del> <span ><img src="images/INR.png" height="15" width="15">1500</span> 
-            <p  style=" line-height: 130% ;text-align: justify;font-family: Verdana ;color: #333333;font-size:13px; margin:7px">
-			The RFX RFCOVER is a smart cover that is used to provide shielding from the harmful radio frequency (RF) radiations of your mobile phone, tablet, and Wi-Fi router/hot-spot, etc.
-Your Wi-Fi router/hot-spot is a big source of RF radiations in your house and working places. It continuously emits RF radiations during day and night, 24 hours.
-                <div class="box">
-	<a class="button" href="#popup1">read more..</a>
-	  		<ul id="nav">
-				<li><a href="purchase.htm"><span>Buy Now</span></a></li>
-				</ul>
+  <video id="sampleMovie" width="535" height="315" preload controls>
+	<source src="Video/RFCOVER Testing1.mp4"  width="560" height="315"  />
+	
+</video>
 </div>
-      
-            </p>
-			
-    <!-- <p><a href="aboutus.html" class="read">read more...</a></p> -->
-    </td>
   </tr>
+  <br>
+  <br>
+  <tr>
+  &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<video id="sampleMovie" width="435" height="315" preload controls>
+	<source src="Video/RFCOVER Testing2.mp4"  width="460" height="315"  />
+	</video>
+  </tr>
+  <br>
+  <br>
+
+  
 </table>
 
 
@@ -203,13 +190,13 @@ Your Wi-Fi router/hot-spot is a big source of RF radiations in your house and wo
 </div>
 
 <!--Start right_pannel news box-->
-<!--div class="right_pannel">
+<div class="right_pannel">
 <h1>Personal care products</h1>
 <div class="cattenavigation">
 <div class="right_nav">
 <ul>
-<li><a href="products.html">Radiation Protection Laptop Shield</a></li>
-<li><a href="rfxrfcover.html">RFX RF Cover</a></li>
+<li><a href="products.html">RFX LAPSAFE</a></li>
+<li><a href="products.html">RFX RFCOVER</a></li>
 <li><a href="#">Radiation Protection Pouch for Mobile Phones</a></li>
 <li><a href="#">Radiation Protection Cap </a></li>
 <li><a href="#">Radiation Protection Cloth</a></li>    
@@ -217,46 +204,11 @@ Your Wi-Fi router/hot-spot is a big source of RF radiations in your house and wo
 <li><a href="#">Radiation Protection Bed Sheets</a></li>
 <li><a href="#">Radiation Protection Curtains</a></li>
 <li><a href="#">Radiation Protection Chambers</a></li>
-
-</ul>
-</div>
-</div-->
-
-
-<!--
-<h1>Industry related products</h1>
-<div class="cattenavigation">
-<div class="right_nav">
-<ul>
-<li><a href="#">Radiation Protection Chambers </a></li>
-<li><a href="#">Radiation Protection Mechanisms</a></li>
-<li><a href="#">Radiation Protection Mesh</a></li>
-<li><a href="#">Radiation Protection Faraday Cage </a></li>    
 </ul>
 </div>
 </div>
--->
 
-<!--Product-----Personal care products list--------->
-<div class="right_pannel">
-<h1>Personal care products</h1>
-<div class="cattenavigation">
-<div class="right_nav">
-<ul>
-<li><a href="http://www.rfxindustries.com/products.html#popup1">RFX LAPSAFE</a></li>
-<li><a href="http://www.rfxindustries.com/products.html#popup2">RFX POUCH</a></li>
-<li><a href="rfxrfcover.html">RFX RFCOVER</a></li>
-<li><a href="#">Radiation Protection Cap </a></li>
-<li><a href="#">Radiation Protection Cloth</a></li>    
-<li><a href="#">Radiation Protection Quilt</a></li>    
-<li><a href="#">Radiation Protection Bed Sheets</a></li>
-<li><a href="#">Radiation Protection Curtains</a></li>
-<li><a href="#">Radiation Protection Chambers</a></li>
 
-</ul>
-</div>
-</div>
-</div>
 <!--
 <h2>LATEST NEWS & EVENTS</h2>
 <marquee direction="up" scrollamount="2" onMouseOver="stop();" onMouseOut="start();" height="200">
@@ -297,7 +249,7 @@ Your Wi-Fi router/hot-spot is a big source of RF radiations in your house and wo
     <div class="buttom_copy">
     <table width="100%" border="0"  cellpadding="0" cellspacing="0">
   <tr>
-    <td align="left" valign="top"><p>All rights reserved - Copyright � 2016</p></td>
+    <td align="left" valign="top"><p>All rights reserved - Copyright © 2016</p></td>
     <td align="right" valign="top"><p> Designed by :  <a href="http://rfxindustries.com" target="_blank" style="text-decoration:none;"> vbhatnag </a></p></td>
   </tr>
 </table>

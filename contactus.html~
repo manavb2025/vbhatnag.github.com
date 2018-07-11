@@ -43,6 +43,7 @@
 			<li><a href="index.html"><span>Home</span></a></li>
 			<li><a href="products.html"><span>Products</span></a></li>
                         <li><a href="aboutus.html"><span>About Us</span></a></li>
+			<li><a href="https://www.youtube.com/channel/UCtpveUYp6VxvqMfYDP2YvVA.html" target="_blank"><span>Youtube channel</span></a></li>
                         <li  class="current"><a href="contactus.html"><span>Contact us</span></a></li>
 		</ul>
     
@@ -67,7 +68,7 @@
 <h1>Contact Us</h1>
 
 
-<p  style=" line-height: 130% ;text-align: justify;font-family: Verdana ;color: #333333;font-size:16px;">If you are interested in one of our product, please send us your queries by email on the below emails. We will contact you as soon as we receive your request. If you want to purchse any of our product <text style="color:blue" class="blink">COD (cash on delivery)</text>, then please press the
+<p  style=" line-height: 130% ;text-align: justify;font-family: Verdana ;color: #333333;font-size:16px;">If you are interested in any of our product, please send us your queries by email on the below emails or write us directly on the address mentioned below. We will contact you as soon as we receive your request. If you want to purchse any of our product <text style="color:blue" class="blink">COD (cash on delivery)</text>, then please press the
 <span class="blink"><a href="purchase.html" target="_blank">"Buy Now"</a> </span>button below. </p> <div class="ontent box"> <ul id="nav">
 				<li><a href="purchase.html"><span>Buy Now</span></a></li></div></ul>
 				

@@ -44,6 +44,7 @@
 			<li><a href="index.html"><span>Home</span></a></li>
 			<li><a href="products.html"><span>Products</span></a></li>
                         <li><a href="aboutus.html"><span>About Us</span></a></li>
+			<li><a href="https://www.youtube.com/channel/UCtpveUYp6VxvqMfYDP2YvVA.html" target="_blank"><span>Youtube channel</span></a></li>
                         <li  class="current"><a href="contactus.html"><span>Contact us</span></a></li>
 		</ul>
     
@@ -72,7 +73,7 @@
 <b>For purchasing our products, please send us an email for the curresponding product on the given email. We will contact you as soon as we receive your request.</b>
 <h2  style="font-size:14px; color:magenta" class="blink">
 <img src=images/promo.jpg height="22" width="22"> Cash on Delivery (COD) available.<img src=images/promo.jpg height="22" width="22"></h2>
-<h2  style="font-size:14px; color:blue"> <img src=images/logo_small.jpg height="10" width="21"> NOW available also on</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src=images/finger_down.jpg height="30" width="32" class="blink" ></br><span  ><mark>Ebay</mark></span>
+<h2  style="font-size:14px; color:blue"> <img src=images/logo_small.jpg height="10" width="21"> NOW available also on</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src=images/finger_down.jpg height="30" width="32" class="blink" ></br><span  class="blink"><mark>Ebay</mark></span>
 <!--marquee--><a href="https://www.ebay.in/itm/Laptop-Radiations-and-Heat-Shield-/152737708324?hash=item238fe07924"target="_blank">RFX LAPSAFE,</a> 
 <a href="https://www.ebay.in/itm/RADIATION-EXPOSURE-LOWERING-MOBILE-POUCH-FOR-5-5-INCH-MOBILE-PHONES-IN-DASHING-R-/152737709118?hash=item238fe07c3e"target="_blank">RFX POUCHE</a>&nbsp;(in red color)</h2><!--/marquee-->
 <h2  style="font-size:14px; color:blue"><span  class="blink"><mark>Amazon</mark></span>
