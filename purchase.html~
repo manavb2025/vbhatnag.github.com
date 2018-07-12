@@ -44,7 +44,7 @@
 			<li><a href="index.html"><span>Home</span></a></li>
 			<li><a href="products.html"><span>Products</span></a></li>
                         <li><a href="aboutus.html"><span>About Us</span></a></li>
-			<li><a href="https://www.youtube.com/channel/UCtpveUYp6VxvqMfYDP2YvVA.html" target="_blank"><span>Youtube channel</span></a></li>
+			<li><a href="https://www.youtube.com/channel/UCtpveUYp6VxvqMfYDP2YvVA" target="_blank"><span>Youtube channel</span></a></li>
                         <li  class="current"><a href="contactus.html"><span>Contact us</span></a></li>
 		</ul>
     
@@ -89,7 +89,7 @@
 <td>
 <a href="http://www.rfxindustries.com/products.html#popup1" target="_blank">
 <div class="container">
-  <img src="images/IMG_4.jpg" alt="Snow" style="width:100%;" border=2>
+  <img src="images/IMG_4.jpg" alt="Snow" style="height:100%; width:100%;" border=2>
   <div class="centered">LAPSAFE</div></a>
 </div>
 </td>
@@ -97,7 +97,7 @@
 <td>
  <a href="http://www.rfxindustries.com/products.html#popup2" target="_blank">
 <div class="container">
-  <img src="images/pouch_products_2.jpg" alt="Snow" style="width:100%;">
+  <img src="images/pouch_products_2.jpg" alt="Snow" style="height:100%; width:100%;">
   <div class="centered">RFX POUCH</div></a>
 </div>
 </td>
@@ -105,7 +105,7 @@
 <td>
 <a href="http://www.rfxindustries.com/products.html#popup3" target="_blank">
 <div class="container">
-  <img src="images/IMG_R7.jpg" alt="Snow" style="width:100%;" border=2>
+  <img src="images/IMG_R7.jpg" alt="Snow" style="height:100%; width:100%;" border=2>
   <div class="centered">RFCOVER</div></a>
 </div>
 </td>
