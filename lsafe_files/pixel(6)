@@ -1,0 +1,183 @@
+var SONAR_URL_PARAM =  'ebay-in' ; 
+
+var user_id = '17f8b17e1640ad7931a369b6fff939b4';
+
+ var VIZ_ACC_ID =  'VIZVRM1306' ; var product = { 
+	identifier: '152737708324', 
+	category: [ 'Laptops & Computer Peripherals'  ,    'Laptops & Computer Peripherals'  ,    'Laptops & Computer Peripherals'  ,    'PC Tools & Laptop Accessories'  ,    'PC Tools & Laptop Accessories'  ,    'PC Tools & Laptop Accessories'  ,    'Cooling Pads'  ,    'Cooling Pads'  ,    'Cooling Pads'      ], 
+	fn: 'Laptop+Radiations+and+Heat+Shield', 
+	description: '', 
+	brand: 'RFX', 
+	price: '2999.0', 
+	quantity: '1.0', 
+	amount: '2999.0', 
+	currency: 'Indian Rupee', 
+	url: 'http://www.ebay.in/itm/152737708324?_trksid=p2365630.m3481985921119439.l3482035601329043', 
+	photo: '', 
+	valid: 'Mon Aug 06 06:07:38 GMT-07:00 2018' 
+}; 
+getjson = { 
+	category_id: '175078', 
+	subcategory_id: '175078', 
+	subsubcategory_id: '175078', 
+	product_id: '152737708324', 
+	brand_name: 'RFX', 
+	seller_id: 'rfindustries_9', 
+	depth: '5',
+	user_type: 'New'
+};
+//var tnskeywords = ["lunarglide","springblade","synchros","mich@el k0rs","superdry"]; 
+var tnskeywords = ["dr. dre beats","beats by dre","beats solo","beats studio","beats pro over-ear headphone","beats pro over the ear","powerbeats2","beats tour 2","urbeats"]; 
+tnskeywords.forEach(myFunction) 
+function myFunction(item, index) {
+	var element =  document.getElementById('itemTitle');
+	if (typeof(element) != 'undefined' && element != null){
+		  var position = document.getElementById('itemTitle').textContent.toLowerCase().indexOf(item); 
+		  if (position!='-1'){ (function() { var d = document.getElementsByTagName('head')[0]; var tns = document.createElement( 'script' ); tns.type = 'text/javascript'; tns.async = true; tns.src = 'https://powership.ebay.in/tnsapp/tnstrack.php?itid=152737708324||'+item; d.appendChild(tns); })();
+		}
+	}
+}
+var itemdetail = { subsidy: 'false'};
+var google_tag_params = { 
+	ecomm_prodid: '152737708324', 
+	ecomm_pagetype: '', 
+	ecomm_totalvalue: '2999.0' 
+}; 
+var pageinfo = {
+	pagetype: 'vip-page', 
+	itemid: [  '152737708324'      ], 
+	value: '2999.0', 
+	search_keyword: '', 
+	category:[  '175078'      ],
+	user_type: 'New'
+}; 	
+if(product['price'] >7000){ 
+	var customer = {segment : 1 };
+}else{ 
+	var customer ={segment : 2 };
+} 
+
+var product_quantity = parseFloat(product.quantity);
+var product_price = parseFloat(product.price);
+
+
+var page_url = location.href;
+rtgsettings ={
+
+	'pdt_id': '152737708324',
+	'pdt_sku': '',
+	'pdt_name': 'Laptop+Radiations+and+Heat+Shield',
+	'pdt_price': '2999.0',
+	'pdt_amount': '2999.0',
+	'pdt_currency': 'INR',
+	'pdt_url': 'https://www.ebay.in/itm/'+152737708324,
+	'pdt_photo': 'http://i.ebayimg.com/images/i/'+152737708324+'-0-1/s-b600x600/p-vc-hc-bgfff/r.jpg',
+	'pdt_instock': 'instock$',
+	'pdt_expdate': '',
+	'pdt_category_list': [ 'Laptops & Computer Peripherals'  ,    'Laptops & Computer Peripherals'  ,    'Laptops & Computer Peripherals'  ,    'PC Tools & Laptop Accessories'  ,    'PC Tools & Laptop Accessories'  ,    'PC Tools & Laptop Accessories'  ,    'Cooling Pads'  ,    'Cooling Pads'  ,    'Cooling Pads'      ], 
+	'pdt_smalldescription': '', 
+	'pagetype': 'product',
+	'key': 'DIR',
+	'token': 'EBAY_IN',
+	'layer': 'iframe'
+};
+var url_var = location.search;
+//if( url_var.indexOf('test_dtm_var')>=0 ){
+	
+	/**ADTM script**/ 
+	var dtm = window.parent.document.createElement('script'); dtm.type="text/javascript"; dtm.id = '_adobe_dtm_script_tag'; dtm.src='//assets.adobedtm.com/146bfceac85235cee2e586a6ad3c7dfb986e2808/satelliteLib-9e5c727e63dd5f355d211e97cb053ed84753e95b.js';
+	var d = window.parent.document.getElementsByTagName('head')[0]; d.appendChild(dtm);setTimeout(function () {_satellite.pageBottom();}, 2000);
+	
+//}else{
+
+	/*Async Pixels*/
+	
+	/**Hockeycurve script**/ 
+	(function() { var d = document.getElementsByTagName('head')[0]; var s = document.createElement( 'script' ); s.type = 'text/javascript'; s.async = true; s.src = '//tag.hockeycurve.com/ebay-001.js'; d.appendChild(s); })(); 
+
+	/**WebEngage script**/
+	var d = document.getElementsByTagName('head')[0]; var s = document.createElement('script'); s.type = 'text/javascript'; s.id = '_webengage_script_tag'; d.appendChild(s); var webengage; !function(e,t,n){function o(e,t){e[t[t.length-1]]=function(){r.__queue.push([t.join("."),arguments])}}var i,s,r=e[n],g=" ",l="init options track screen onReady".split(g),a="feedback survey notification".split(g),c="options render clear abort".split(g),p="Open Close Submit Complete View Click".split(g),u="identify login logout setAttribute".split(g);if(!r||!r.__v){for(e[n]=r={__queue:[],__v:"6.0",user:{}},i=0;i<l.length;i++)o(r,[l[i]]);for(i=0;i<a.length;i++){for(r[a[i]]={},s=0;s<c.length;s++)o(r[a[i]],[a[i],c[s]]);for(s=0;s<p.length;s++)o(r[a[i]],[a[i],"on"+p[s]])}for(i=0;i<u.length;i++)o(r.user,["user",u[i]]);setTimeout(function(){var f=t.createElement("script"),d=t.getElementById("_webengage_script_tag");f.type="text/javascript",f.async=!0,f.src=("https:"==t.location.protocol?"https://ssl.widgets.webengage.com":"http://cdn.widgets.webengage.com")+"/js/webengage-min-v-6.0.js",d.parentNode.insertBefore(f,d)})}}(window,document,"webengage"); webengage.init("11b563cb1"); 
+
+	/**Sokrati script**/
+	(function() { var d = document.getElementsByTagName('head')[0]; var s = document.createElement( 'script' ); s.type = 'text/javascript'; s.async = true; s.src = 'https://chuknu.sokrati.com/432/tracker.js'; d.appendChild(s); })(); 
+	
+	/**AMO Cart Page
+	(function() { var f = function() { EF.init({ eventType: "transaction", transactionProperties : "ev_Product_Page=1", segment : "", searchSegment : "", sku : "", userid : "853", pixelHost : "pixel.everesttech.net" , allow3rdPartyPixels: 1}); EF.main(); }; window.EF = window.EF || {}; if (window.EF.main) { f(); return; } window.EF.onloadCallbacks = window.EF.onloadCallbacks || []; window.EF.onloadCallbacks[window.EF.onloadCallbacks.length] = f; if (!window.EF.jsTagAdded) { var efjs = document.createElement('script'); efjs.type = 'text/javascript'; efjs.async = true; efjs.src = 'https://www.everestjs.net/static/st.v3.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(efjs, s); window.EF.jsTagAdded=1; } })();
+	**/
+	/*Sync Pixels*/
+
+	if( typeof(pageinfo)!=='undefined' && typeof(product)!=='undefined' && typeof(VIZ_ACC_ID)!=='undefined' && typeof(SONAR_URL_PARAM)!=='undefined' ){
+
+		/**IA pixel Variables**/
+		var site_page_type='', client_type='', site_type_check='';
+
+		/**Mediamath Pixel**/
+		var usersignedin = '',meta='',leaf='',user_segment='', final_param ='';
+		var mt_id='1073830'; 
+		if( location.hostname=='m.ebay.in' ){
+			client_type='mobile_site';
+			site_type_check = 'mweb';
+			var signedinCheck = document.getElementsByClassName('i-myebay-s').length;
+			if( signedinCheck==0 ){
+				usersignedin = 'visitor';
+			}else{
+				usersignedin = 'signedin';
+			}
+		}else{
+			client_type='desktop';
+			site_type_check = 'desktop';
+			var signedinCheck = document.getElementById('gh-ug').innerText;
+			if( signedinCheck.indexOf('Sign in')>=0 ){
+				usersignedin = 'visitor'; 
+			}else{
+				usersignedin = 'signedin';
+			}
+		}
+
+	
+		
+		/** mediamath 
+		(function() { var d = document.getElementsByTagName('head')[0]; var s = document.createElement( 'script' ); s.type = 'text/javascript'; s.language='JavaScript1.1'; s.async = true; s.src = '//pixel.mathtag.com/event/js?'+final_param; d.appendChild(s); })();
+**/
+		/**Infinite Analytics Script
+		(function(){var s=document.createElement('script');s.type='text/javascript';s.src='https://ebaydev.infiniteanalytics.com/ebaycomboia.js'; document.getElementsByTagName('head')[0].appendChild(s);})(); 
+**/ 
+		/**WebEngage Custom Scripts**/ 
+
+		/*Add to Watchlist*/ 
+		function watchlist_Timer(){ 
+			if ( $( '#divWlist' ).css('display')=='block' ) { 
+				webengage.track('Item_Addedto_WatchList',{ productid: product.identifier, meta:product.category[0], price:product.price, brand:product.brand }); /*send a flag to WebEngage saying the item has been added to the watchlist. Trigger a notification that uses this event.*/ 
+				statusWatchlistWE = 'Item is now being watched'; 
+				clearInterval(watchlist_check); 
+			}else{ 
+				statusWatchlistWE = 'no watchlist yet'; 
+			} 
+		};
+		function start_watchlist(){
+			preCheckWatchlistWE = $( '#divWlist' ).css('display'); /*item already exists in the watchlist. Do not trigger event*/ 
+			if( preCheckWatchlistWE=='block' ){ 
+				statusWatchlistWE = 'already added to watchlist. Ignore'; 
+			}else{ 
+				var watchlist_check = setInterval(function(){ watchlist_Timer() }, 3000); 
+			}
+		}
+		var preCheckWatchlistWE ='';
+		var statusWatchlistWE = '';
+		if(window.Jquery){
+			start_watchlist();
+		}
+
+		/**Sociomantic Pixel**/ 
+		(function() { var d = document.getElementsByTagName('head')[0]; var s1 = document.createElement( 'script' ); s1.type = 'text/javascript'; s1.async = true; s1.src = 'https://ap-sonar.sociomantic.com/js/2010-07-01/adpan/'+SONAR_URL_PARAM; d.appendChild(s1); })();
+		
+		/*Vizury
+		(function () { try { var viz = document.createElement("script"); viz.type = "text/javascript"; viz.async = true; viz.src = ("https:" == document.location.protocol ? "https://ssl.vizury.com" : "http://www.vizury.com") + "/analyze/pixel.php?account_id="+VIZ_ACC_ID; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(viz, s); viz.onload = function () { try { pixel.parse(); } catch (i) {} }; viz.onreadystatechange = function () { if (viz.readyState == "complete" || viz.readyState == "loaded") { try { pixel.parse(); } catch (i) {} } }; } catch (i) {} })(); 
+	*/
+	}
+//}
+(function(d) {
+		var s = d.createElement('script'); s.async = true;s.id='madv2014rtg';s.type='text/javascript';
+		s.src = (d.location.protocol == 'https:' ? 'https:' : 'http:') + '//www.mainadv.com/Visibility/Rtgdir2-min.js';
+		var a = d.getElementsByTagName('script')[0]; a.parentNode.insertBefore(s, a);
+	}(document));
