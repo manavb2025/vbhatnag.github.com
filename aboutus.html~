@@ -41,7 +41,7 @@
 			<li><a href="index.html"><span>Home</span></a></li>
                         <li><a href="products.html"><span>Products</span></a></li>
 			<li  class="current"><a href="aboutus.html"><span>About Us</span></a></li>
-			<li><a href="https://www.youtube.com/channel/UCtpveUYp6VxvqMfYDP2YvVA.html" target="_blank"><span>Youtube channel</span></a></li>
+			<li><a href="https://www.youtube.com/channel/UCtpveUYp6VxvqMfYDP2YvVA" target="_blank"><span>Youtube channel</span></a></li>
                         <li><a href="contactus.html"><span>Contact us</span></a></li>
 		</ul>
     
@@ -69,7 +69,7 @@
 <p  style=" line-height: 130% ;text-align: justify;font-family: Verdana ;color: #333333;font-size:15px;">RFX Industries mainly deals in RF Shielding accessories used forpersonal safety from Radio frequency (RF) radiation and in various industries for RF equipment testing and protection. Our product range includes various clothing gears, mobile phone pouches, RF shield for laptops, RF Shielding chambers, RF Shielding blended clothes, and conductive clothes. We also provide consultation for RF and EMF shielding for various personal and industrial applications. </p>
 <table width="100%" border="0" cellpadding="0" cellspacing="10">
   <tr>
-    <td valign="top"><img src="images/IMG_4.jpg" align="left" height="217" width="244" border="0" /></td>
+    <td valign="top"><img src="images/IMG_4.jpg" align="left" height="177" width="244" border="0" /></td>
 
 
     <td valign="top">
