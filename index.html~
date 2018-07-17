@@ -14,6 +14,29 @@
 </head>
 
 <body>
+
+    <!-- adding lens js -->
+<link href="./lsafe_files/cmv54i211i0xzhjjj0gv1dzp0us.css" type="text/css" rel="stylesheet"><link href="./lsafe_files/f1ponoeagu01dglbf1kjetsrzu4.css" type="text/css" rel="stylesheet"><link href="./lsafe_files/s0kdzasximzhvjnbz5tm2rmbjea.css" type="text/css" rel="stylesheet"><style type="text/css">.similar-items-panel .similar-items-title {font-family: "Helvetica neue",Helvetica,Verdana,Sans-serif !important;}
+#Body .app-mtp-theme-tabs * {font-family: "Helvetica neue",Helvetica,Verdana,Sans-serif}
+#Body .theme-details * {font-family: "Helvetica neue",Helvetica,Verdana,Sans-serif}
+h1#ProductTitle {font-family: "Helvetica neue",Helvetica,Verdana,Sans-serif}</style><style type="text/css">
+				html a:link{
+					color: #0654ba;
+				}
+				ul#bc a:link{
+					color: #0654ba;
+				}
+				.mbg a:link{
+					color: #0654ba !important;
+				}
+				.mbg-l a:link{
+					color: #0654ba !important;
+				}
+				#Body .nav-tabs-m a:link{
+					color: #0654ba;
+				}
+			</style>
+<!--integration index.html rfxindustries-->
 <div id="outerbody">
 
 <div id="topband">
@@ -40,7 +63,7 @@
 			<li class="current"><a href="index.html"><span>Home</span></a></li>
                         <li><a href="products.html"><span>Products</span></a></li>
                         <li><a href="aboutus.html"><span>About us</span></a></li>
-			<li><a href="https://www.youtube.com/channel/UCtpveUYp6VxvqMfYDP2YvVA.html" target="_blank"><span>Youtube channel</span></a></li>
+			<li><a href="https://www.youtube.com/channel/UCtpveUYp6VxvqMfYDP2YvVA" target="_blank"><span>Youtube channel</span></a></li>
 			<li><a href="contactus.html"><span>Contact us</span></a></li>
 		</ul>
     
